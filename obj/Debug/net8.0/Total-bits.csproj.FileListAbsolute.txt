@@ -1,0 +1,14 @@
+/Users/joesun/piktiv/dailyCoding/Total-bits/bin/Debug/net8.0/Total-bits
+/Users/joesun/piktiv/dailyCoding/Total-bits/bin/Debug/net8.0/Total-bits.deps.json
+/Users/joesun/piktiv/dailyCoding/Total-bits/bin/Debug/net8.0/Total-bits.runtimeconfig.json
+/Users/joesun/piktiv/dailyCoding/Total-bits/bin/Debug/net8.0/Total-bits.dll
+/Users/joesun/piktiv/dailyCoding/Total-bits/bin/Debug/net8.0/Total-bits.pdb
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.AssemblyInfoInputs.cache
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.AssemblyInfo.cs
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.csproj.CoreCompileInputs.cache
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.dll
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/refint/Total-bits.dll
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.pdb
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/Total-bits.genruntimeconfig.cache
+/Users/joesun/piktiv/dailyCoding/Total-bits/obj/Debug/net8.0/ref/Total-bits.dll
